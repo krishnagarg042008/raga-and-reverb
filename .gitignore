@@ -1,0 +1,10 @@
+# Ignore Python cache & OS metadata
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Ignore temporary backup files
+*.backup.*
+*.bak

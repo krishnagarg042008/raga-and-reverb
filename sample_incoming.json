@@ -1,0 +1,32 @@
+[
+  {
+    "id": "FA_J8XwpCaQ",
+    "title": "Tu Jaane Na",
+    "artist": "Pritam",
+    "duration": "5:42",
+    "thumbnail": "https://img.youtube.com/vi/FA_J8XwpCaQ/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "NEW_001",
+    "title": "Kesariya",
+    "artist": "Pritam feat. Arijit Singh",
+    "movie": "Brahmastra",
+    "duration": "4:28",
+    "thumbnail": "https://img.youtube.com/vi/BddP6PYo2gs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "NEW_002",
+    "title": "Channa Mereya (Unplugged)",
+    "artist": "Pritam & Arijit Singh",
+    "movie": "Ae Dil Hai Mushkil",
+    "duration": "4:49",
+    "thumbnail": "https://img.youtube.com/vi/284Ov7ysmfA/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "title": "Malformed Song Missing ID",
+    "artist": "Unknown Artist"
+  }
+]

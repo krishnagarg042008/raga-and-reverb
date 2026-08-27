@@ -1,0 +1,902 @@
+[
+  {
+    "id": "Dtr97S83CX0",
+    "title": "Ek Dil Hai",
+    "artist": "Kumar Sanu Official",
+    "movie": "",
+    "duration": "5:11",
+    "thumbnail": "https://img.youtube.com/vi/Dtr97S83CX0/mqdefault.jpg",
+    "mood": "Nostalgia & Classics"
+  },
+  {
+    "id": "JaNN2D54Dow",
+    "title": "Dekhte Dekhte",
+    "artist": "Atif Aslam",
+    "movie": "Batti Gul Meter Chalu",
+    "duration": "4:17",
+    "thumbnail": "https://img.youtube.com/vi/JaNN2D54Dow/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "8-aagqHnx7M",
+    "title": "HUM TUMKO NIGAHON MEIN",
+    "artist": "Udit Narayan",
+    "movie": "",
+    "duration": "6:03",
+    "thumbnail": "https://img.youtube.com/vi/8-aagqHnx7M/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "C14askJ1tO8",
+    "title": "Haareya",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "3:35",
+    "thumbnail": "https://img.youtube.com/vi/C14askJ1tO8/mqdefault.jpg",
+    "mood": "Acoustic & Soul"
+  },
+  {
+    "id": "0QXHXqhKfUA",
+    "title": "Bhula Dena",
+    "artist": "Mustafa Zahid",
+    "movie": "",
+    "duration": "4:01",
+    "thumbnail": "https://img.youtube.com/vi/0QXHXqhKfUA/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "MrUC9Km7U94",
+    "title": "Valam",
+    "artist": "Sachin Jigar",
+    "movie": "Made in China",
+    "duration": "3:16",
+    "thumbnail": "https://img.youtube.com/vi/MrUC9Km7U94/mqdefault.jpg",
+    "mood": "Acoustic & Soul"
+  },
+  {
+    "id": "zKks-6Xf3uc",
+    "title": "Chaaha Hai Tujhko",
+    "artist": "Udit Narayan",
+    "movie": "",
+    "duration": "4:41",
+    "thumbnail": "https://img.youtube.com/vi/zKks-6Xf3uc/mqdefault.jpg",
+    "mood": "Nostalgia & Classics"
+  },
+  {
+    "id": "DRZHVrSmcWU",
+    "title": "Barbaad",
+    "artist": "Jubin Nautiyal",
+    "movie": "Saiyaara",
+    "duration": "5:58",
+    "thumbnail": "https://img.youtube.com/vi/DRZHVrSmcWU/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "5SGxpmPt9j0",
+    "title": "Kahin Mujhe Pyar Hua Toh Nahin",
+    "artist": "Alka Yagnik",
+    "movie": "",
+    "duration": "7:04",
+    "thumbnail": "https://img.youtube.com/vi/5SGxpmPt9j0/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "AvMgfjv14B0",
+    "title": "Deewana Kar Raha Hai",
+    "artist": "Javed Ali",
+    "movie": "",
+    "duration": "5:39",
+    "thumbnail": "https://img.youtube.com/vi/AvMgfjv14B0/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "12pMB_mCBOo",
+    "title": "Labon Ko",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:42",
+    "thumbnail": "https://img.youtube.com/vi/12pMB_mCBOo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "BLNHOgy_HCI",
+    "title": "Hale Dil",
+    "artist": "Harshit Saxena",
+    "movie": "",
+    "duration": "5:47",
+    "thumbnail": "https://img.youtube.com/vi/BLNHOgy_HCI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "1kcCk4YRJdo",
+    "title": "Haan Tu Hain",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:25",
+    "thumbnail": "https://img.youtube.com/vi/1kcCk4YRJdo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "L0FzCiuTVEw",
+    "title": "Maahi",
+    "artist": "Shaarib Toshi",
+    "movie": "",
+    "duration": "5:30",
+    "thumbnail": "https://img.youtube.com/vi/L0FzCiuTVEw/mqdefault.jpg",
+    "mood": "Sufi & Devotional"
+  },
+  {
+    "id": "eA7V16oogFA",
+    "title": "Zaroorat",
+    "artist": "Mustafa Zahid",
+    "movie": "",
+    "duration": "6:09",
+    "thumbnail": "https://img.youtube.com/vi/eA7V16oogFA/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "SqlDjE35P9M",
+    "title": "Milne Hai Mujhse Aayi",
+    "artist": "Arijit Singh",
+    "movie": "Aashiqui 2",
+    "duration": "4:56",
+    "thumbnail": "https://img.youtube.com/vi/SqlDjE35P9M/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "lOBmToX9gr8",
+    "title": "Sunn Raha Hai",
+    "artist": "Ankit Tiwari",
+    "movie": "",
+    "duration": "6:31",
+    "thumbnail": "https://img.youtube.com/vi/lOBmToX9gr8/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "NPC-9hYbkLE",
+    "title": "Chahun Main Ya Naa",
+    "artist": "Palak Muchhal",
+    "movie": "",
+    "duration": "5:05",
+    "thumbnail": "https://img.youtube.com/vi/NPC-9hYbkLE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "n9qQiuwBywU",
+    "title": "Humnava Mere",
+    "artist": "Jubin Nautiyal",
+    "movie": "",
+    "duration": "5:29",
+    "thumbnail": "https://img.youtube.com/vi/n9qQiuwBywU/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "lAsxLc9_45w",
+    "title": "SOCH NA SAKE",
+    "artist": "Amaal Mallik",
+    "movie": "",
+    "duration": "4:42",
+    "thumbnail": "https://img.youtube.com/vi/lAsxLc9_45w/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "i-EXgX279wU",
+    "title": "Galliyan",
+    "artist": "Ankit Tiwari",
+    "movie": "",
+    "duration": "5:41",
+    "thumbnail": "https://img.youtube.com/vi/i-EXgX279wU/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "_eZnQzneuKs",
+    "title": "Banjaara",
+    "artist": "Mohammed Irfan",
+    "movie": "",
+    "duration": "5:37",
+    "thumbnail": "https://img.youtube.com/vi/_eZnQzneuKs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "68Xh6j__cSM",
+    "title": "Hasi (Male Version)",
+    "artist": "Ami Mishra",
+    "movie": "",
+    "duration": "4:33",
+    "thumbnail": "https://img.youtube.com/vi/68Xh6j__cSM/mqdefault.jpg",
+    "mood": "Acoustic & Soul"
+  },
+  {
+    "id": "nko2VloNgLE",
+    "title": "Main Dhoondne Ko Zamaane Mein",
+    "artist": "Arijit Singh",
+    "movie": "Heartless",
+    "duration": "4:23",
+    "thumbnail": "https://img.youtube.com/vi/nko2VloNgLE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "uBJhOkOqFoE",
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "movie": "Kabir Singh",
+    "duration": "3:55",
+    "thumbnail": "https://img.youtube.com/vi/uBJhOkOqFoE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "za6vJ-Qzhfg",
+    "title": "Bol Do Na Zara",
+    "artist": "Armaan Malik",
+    "movie": "Azhar",
+    "duration": "4:53",
+    "thumbnail": "https://img.youtube.com/vi/za6vJ-Qzhfg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "gOSM2dEqwsE",
+    "title": "Pehli Dafa",
+    "artist": "Atif Aslam",
+    "movie": "",
+    "duration": "4:59",
+    "thumbnail": "https://img.youtube.com/vi/gOSM2dEqwsE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "gPlr04DEad4",
+    "title": "Chale Aana",
+    "artist": "Armaan Malik",
+    "movie": "De De Pyaar De",
+    "duration": "4:32",
+    "thumbnail": "https://img.youtube.com/vi/gPlr04DEad4/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "jLHyFkCKEzg",
+    "title": "Ik Mulaqaat",
+    "artist": "Meet Bros",
+    "movie": "",
+    "duration": "4:08",
+    "thumbnail": "https://img.youtube.com/vi/jLHyFkCKEzg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "64lEY8jj4RA",
+    "title": "Dil Mein Ho Tum",
+    "artist": "Armaan Malik",
+    "movie": "Cheat India",
+    "duration": "5:27",
+    "thumbnail": "https://img.youtube.com/vi/64lEY8jj4RA/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "qI4rijn4_Mo",
+    "title": "IJAZAT",
+    "artist": "Meet Bros",
+    "movie": "",
+    "duration": "4:49",
+    "thumbnail": "https://img.youtube.com/vi/qI4rijn4_Mo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Zk_9vHhOcNg",
+    "title": "Khamoshiyan",
+    "artist": "JEET GANNGULI",
+    "movie": "",
+    "duration": "5:36",
+    "thumbnail": "https://img.youtube.com/vi/Zk_9vHhOcNg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "CrL3h1Bq0Iw",
+    "title": "Baarish",
+    "artist": "Mohammed Irfan",
+    "movie": "",
+    "duration": "6:15",
+    "thumbnail": "https://img.youtube.com/vi/CrL3h1Bq0Iw/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "tLaJFnc93Oc",
+    "title": "Tum Hi Aana",
+    "artist": "Payal Dev",
+    "movie": "Marjaavaan",
+    "duration": "4:10",
+    "thumbnail": "https://img.youtube.com/vi/tLaJFnc93Oc/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "_nJI4VcxF70",
+    "title": "Filhall",
+    "artist": "B Praak",
+    "movie": "",
+    "duration": "4:15",
+    "thumbnail": "https://img.youtube.com/vi/_nJI4VcxF70/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "2CAiycLVy7s",
+    "title": "Tu Hi Haqeeqat",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:03",
+    "thumbnail": "https://img.youtube.com/vi/2CAiycLVy7s/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "yqtGt2IjyKg",
+    "title": "Main Yahaan Hoon",
+    "artist": "Udit Narayan",
+    "movie": "",
+    "duration": "4:55",
+    "thumbnail": "https://img.youtube.com/vi/yqtGt2IjyKg/mqdefault.jpg",
+    "mood": "Nostalgia & Classics"
+  },
+  {
+    "id": "o-9VdyXZKsQ",
+    "title": "Tujhe Bhula Diya",
+    "artist": "Mohit Chauhan",
+    "movie": "",
+    "duration": "4:40",
+    "thumbnail": "https://img.youtube.com/vi/o-9VdyXZKsQ/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "-IO4wID2B3A",
+    "title": "Nit Khair Manga",
+    "artist": "Folk & Soul Studio",
+    "movie": "Raid",
+    "duration": "3:49",
+    "thumbnail": "https://img.youtube.com/vi/-IO4wID2B3A/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "8HRLn62jWr8",
+    "title": "Sanu Ek Pal",
+    "artist": "Folk & Soul Studio",
+    "movie": "Raid",
+    "duration": "3:31",
+    "thumbnail": "https://img.youtube.com/vi/8HRLn62jWr8/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "LQzByGZHiQ8",
+    "title": "Tum Jo Aaye",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "4:47",
+    "thumbnail": "https://img.youtube.com/vi/LQzByGZHiQ8/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "P84DXiycs9c",
+    "title": "Tere Bin",
+    "artist": "Folk & Soul Studio",
+    "movie": "Simmba",
+    "duration": "3:51",
+    "thumbnail": "https://img.youtube.com/vi/P84DXiycs9c/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "PfcwlfCm7fc",
+    "title": "Falak Tak",
+    "artist": "Vishal-Shekhar",
+    "movie": "Tashan",
+    "duration": "5:56",
+    "thumbnail": "https://img.youtube.com/vi/PfcwlfCm7fc/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "cE4atI_v-Z0",
+    "title": "Main Rang Sharbaton Ka",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "4:24",
+    "thumbnail": "https://img.youtube.com/vi/cE4atI_v-Z0/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "FA_J8XwpCaQ",
+    "title": "Tu Jaane Na",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:42",
+    "thumbnail": "https://img.youtube.com/vi/FA_J8XwpCaQ/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "AsLPGPs5iQk",
+    "title": "Jeena Jeena",
+    "artist": "Sachin Jigar",
+    "movie": "",
+    "duration": "3:49",
+    "thumbnail": "https://img.youtube.com/vi/AsLPGPs5iQk/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "gmoucRvDfIk",
+    "title": "Kabira",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "3:44",
+    "thumbnail": "https://img.youtube.com/vi/gmoucRvDfIk/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "u8zs-WGI_8U",
+    "title": "Tose Naina (From \"Mickey Virus)",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "4:24",
+    "thumbnail": "https://img.youtube.com/vi/u8zs-WGI_8U/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "I94fhjQ-U30",
+    "title": "Tum Se Hi",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:22",
+    "thumbnail": "https://img.youtube.com/vi/I94fhjQ-U30/mqdefault.jpg",
+    "mood": "Acoustic & Soul"
+  },
+  {
+    "id": "XPu9ZE4Onzc",
+    "title": "Kya Mujhe Pyar Hai",
+    "artist": "Kay Kay",
+    "movie": "",
+    "duration": "4:27",
+    "thumbnail": "https://img.youtube.com/vi/XPu9ZE4Onzc/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "bdS6OoH1W2A",
+    "title": "Ajab Si",
+    "artist": "Vishal-Shekhar",
+    "movie": "",
+    "duration": "4:02",
+    "thumbnail": "https://img.youtube.com/vi/bdS6OoH1W2A/mqdefault.jpg",
+    "mood": "Acoustic & Soul"
+  },
+  {
+    "id": "pUwpLoLlzNQ",
+    "title": "Samjhawan",
+    "artist": "Jawad Ahmad",
+    "movie": "",
+    "duration": "4:30",
+    "thumbnail": "https://img.youtube.com/vi/pUwpLoLlzNQ/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "dgDc_gCkA8Q",
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik",
+    "movie": "Tamasha",
+    "duration": "5:42",
+    "thumbnail": "https://img.youtube.com/vi/dgDc_gCkA8Q/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "ppcVqfsekIs",
+    "title": "Khuda Bhi",
+    "artist": "Mohit Chauhan",
+    "movie": "",
+    "duration": "5:01",
+    "thumbnail": "https://img.youtube.com/vi/ppcVqfsekIs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Gg3Xz89Q2UU",
+    "title": "Hua Hain Aaj Pehli Baar",
+    "artist": "Amaal Mallik",
+    "movie": "",
+    "duration": "5:10",
+    "thumbnail": "https://img.youtube.com/vi/Gg3Xz89Q2UU/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "kZAgy1DYJK4",
+    "title": "Sawan Aaya Hai",
+    "artist": "Arijit Singh",
+    "movie": "Creature 3D",
+    "duration": "4:49",
+    "thumbnail": "https://img.youtube.com/vi/kZAgy1DYJK4/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "PMsb75uPHOo",
+    "title": "Pal",
+    "artist": "Javed - Mohsin",
+    "movie": "",
+    "duration": "4:08",
+    "thumbnail": "https://img.youtube.com/vi/PMsb75uPHOo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "3M3o3Ak1qBY",
+    "title": "Jeene Laga Hoon",
+    "artist": "Atif Aslam",
+    "movie": "",
+    "duration": "3:56",
+    "thumbnail": "https://img.youtube.com/vi/3M3o3Ak1qBY/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "xBqpEpMGZe8",
+    "title": "Pal Pal Dil Ke Paas- Title Track",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "4:15",
+    "thumbnail": "https://img.youtube.com/vi/xBqpEpMGZe8/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "h3EuilWNquo",
+    "title": "Duniyaa",
+    "artist": "Akhil Music",
+    "movie": "Luka Chuppi",
+    "duration": "3:43",
+    "thumbnail": "https://img.youtube.com/vi/h3EuilWNquo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Pm0Ga7R-vrM",
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "movie": "Kabir Singh",
+    "duration": "4:45",
+    "thumbnail": "https://img.youtube.com/vi/Pm0Ga7R-vrM/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "eAxK5tyahUM",
+    "title": "Main Agar Saamne",
+    "artist": "Abhijeet Unplugged",
+    "movie": "",
+    "duration": "5:46",
+    "thumbnail": "https://img.youtube.com/vi/eAxK5tyahUM/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "SzEGaTv-jCY",
+    "title": "Aaj Phir (From \"Hate Story 2)",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "4:22",
+    "thumbnail": "https://img.youtube.com/vi/SzEGaTv-jCY/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "mnxPiV0g4ZE",
+    "title": "DIL MEIN CHHUPA LOONGA",
+    "artist": "Meet Bros",
+    "movie": "",
+    "duration": "5:32",
+    "thumbnail": "https://img.youtube.com/vi/mnxPiV0g4ZE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "IaHVWceuMMA",
+    "title": "Mujhko Barsaat Bana Lo",
+    "artist": "Armaan Malik",
+    "movie": "Junooniyat",
+    "duration": "4:24",
+    "thumbnail": "https://img.youtube.com/vi/IaHVWceuMMA/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "eFEFXuq9-qM",
+    "title": "Tumhe Apna Banane Ka",
+    "artist": "Armaan Malik",
+    "movie": "",
+    "duration": "5:11",
+    "thumbnail": "https://img.youtube.com/vi/eFEFXuq9-qM/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "EUUZjsthniI",
+    "title": "Wajah Tum Ho",
+    "artist": "Mithoon",
+    "movie": "Wajah Tum Ho",
+    "duration": "4:55",
+    "thumbnail": "https://img.youtube.com/vi/EUUZjsthniI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "4xYyIDq_coo",
+    "title": "Toota Jo Kabhi Tara",
+    "artist": "Atif Aslam",
+    "movie": "",
+    "duration": "5:06",
+    "thumbnail": "https://img.youtube.com/vi/4xYyIDq_coo/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Uwxs20pS4wg",
+    "title": "Baarish by Atif Aslam",
+    "artist": "Atif Aslam",
+    "movie": "",
+    "duration": "5:37",
+    "thumbnail": "https://img.youtube.com/vi/Uwxs20pS4wg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "5lKv7kdzBZs",
+    "title": "HANGOVER",
+    "artist": "Meet Bros",
+    "movie": "",
+    "duration": "6:16",
+    "thumbnail": "https://img.youtube.com/vi/5lKv7kdzBZs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "cK9h5PVzRpk",
+    "title": "GUZARISH",
+    "artist": "Javed Ali",
+    "movie": "",
+    "duration": "5:28",
+    "thumbnail": "https://img.youtube.com/vi/cK9h5PVzRpk/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "ZaURV4XxdPI",
+    "title": "Chand Sifarish",
+    "artist": "Singer Shaan",
+    "movie": "",
+    "duration": "4:36",
+    "thumbnail": "https://img.youtube.com/vi/ZaURV4XxdPI/mqdefault.jpg",
+    "mood": "Uplifting & Warmth"
+  },
+  {
+    "id": "5_2NuCw8ifg",
+    "title": "Tumse Milke Dil Ka",
+    "artist": "Sonu Nigam",
+    "movie": "Main Hoon Na",
+    "duration": "4:15",
+    "thumbnail": "https://img.youtube.com/vi/5_2NuCw8ifg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "YSRQfSmi9pI",
+    "title": "Aapke Pyaar Mein Hum",
+    "artist": "Alka Yagnik",
+    "movie": "",
+    "duration": "5:30",
+    "thumbnail": "https://img.youtube.com/vi/YSRQfSmi9pI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "12KGtUu4xhg",
+    "title": "Phir Mohabbat",
+    "artist": "Mohammed Irfan",
+    "movie": "",
+    "duration": "5:30",
+    "thumbnail": "https://img.youtube.com/vi/12KGtUu4xhg/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "p8eD8PQcC8I",
+    "title": "Aasan Nahin Yahan",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "3:35",
+    "thumbnail": "https://img.youtube.com/vi/p8eD8PQcC8I/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "-sUUt4AGUKM",
+    "title": "Muskurane  (Romantic)",
+    "artist": "JEET GANNGULI",
+    "movie": "Citylights",
+    "duration": "5:35",
+    "thumbnail": "https://img.youtube.com/vi/-sUUt4AGUKM/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "VTVISZLW2fs",
+    "title": "Raaz Aankhein Teri",
+    "artist": "Arijit Singh",
+    "movie": "Raaz Reboot",
+    "duration": "4:52",
+    "thumbnail": "https://img.youtube.com/vi/VTVISZLW2fs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "SwzCJ_MV-AQ",
+    "title": "Hamari Adhuri Kahani (Title Track)",
+    "artist": "JEET GANNGULI",
+    "movie": "Hamari Adhuri Kahani",
+    "duration": "6:39",
+    "thumbnail": "https://img.youtube.com/vi/SwzCJ_MV-AQ/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "YAmSm4IXMlA",
+    "title": "Thodi Jagah",
+    "artist": "Arijit Singh",
+    "movie": "Marjaavaan",
+    "duration": "3:39",
+    "thumbnail": "https://img.youtube.com/vi/YAmSm4IXMlA/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "9a26mBBK4jE",
+    "title": "Tere Sang Yaara",
+    "artist": "Atif Aslam",
+    "movie": "",
+    "duration": "4:47",
+    "thumbnail": "https://img.youtube.com/vi/9a26mBBK4jE/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "vKITrWUNpjQ",
+    "title": "Naina",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "3:46",
+    "thumbnail": "https://img.youtube.com/vi/vKITrWUNpjQ/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "jRi_JRevJvs",
+    "title": "Kaun Tujhe (Armaan Malik Version)",
+    "artist": "Armaan Malik",
+    "movie": "",
+    "duration": "2:41",
+    "thumbnail": "https://img.youtube.com/vi/jRi_JRevJvs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "1U9548B35WI",
+    "title": "Khairiyat",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "4:41",
+    "thumbnail": "https://img.youtube.com/vi/1U9548B35WI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "EQxEms7gnqs",
+    "title": "Shayad",
+    "artist": "Arijit Singh",
+    "movie": "Love Aaj Kal",
+    "duration": "4:08",
+    "thumbnail": "https://img.youtube.com/vi/EQxEms7gnqs/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Wg50Ve_Mpg4",
+    "title": "JAB TAK",
+    "artist": "Armaan Malik",
+    "movie": "",
+    "duration": "2:55",
+    "thumbnail": "https://img.youtube.com/vi/Wg50Ve_Mpg4/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "Kf781IbMQXk",
+    "title": "Qaafirana",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "5:42",
+    "thumbnail": "https://img.youtube.com/vi/Kf781IbMQXk/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "S3c-Ku1924w",
+    "title": "Dekha Hazaro Dafaa",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "3:28",
+    "thumbnail": "https://img.youtube.com/vi/S3c-Ku1924w/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "TW4xdaq7MBw",
+    "title": "Piya Aaye Na",
+    "artist": "Tulsi Kumar",
+    "movie": "Aashiqui 2",
+    "duration": "4:47",
+    "thumbnail": "https://img.youtube.com/vi/TW4xdaq7MBw/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "H51ph0In8i0",
+    "title": "Hum Mar Jayenge",
+    "artist": "Tulsi Kumar",
+    "movie": "Aashiqui 2",
+    "duration": "5:07",
+    "thumbnail": "https://img.youtube.com/vi/H51ph0In8i0/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "s6oQTPs0rZI",
+    "title": "Pani Da Rang (Male)",
+    "artist": "Ayushmann Khurrana",
+    "movie": "",
+    "duration": "4:01",
+    "thumbnail": "https://img.youtube.com/vi/s6oQTPs0rZI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "g0FRQczOJ8w",
+    "title": "Saadi Galli Aaja",
+    "artist": "Ayushmann Khurrana",
+    "movie": "",
+    "duration": "4:14",
+    "thumbnail": "https://img.youtube.com/vi/g0FRQczOJ8w/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "D49nMgP7Vzc",
+    "title": "Bol Na Halke Halke",
+    "artist": "Folk & Soul Studio",
+    "movie": "",
+    "duration": "5:07",
+    "thumbnail": "https://img.youtube.com/vi/D49nMgP7Vzc/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "5s4fqJpXRvI",
+    "title": "Kabhi Jo Baadal Barse (From \"Jackpot)",
+    "artist": "Arijit Singh",
+    "movie": "",
+    "duration": "4:15",
+    "thumbnail": "https://img.youtube.com/vi/5s4fqJpXRvI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "q1uPPBJ2tcI",
+    "title": "Phir Bhi Tumko Chaahunga",
+    "artist": "Mithoon",
+    "movie": "",
+    "duration": "5:52",
+    "thumbnail": "https://img.youtube.com/vi/q1uPPBJ2tcI/mqdefault.jpg",
+    "mood": "Late Night Melancholy"
+  },
+  {
+    "id": "nnjSgp0-z-Q",
+    "title": "Dheere Dheere",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "",
+    "duration": "3:33",
+    "thumbnail": "https://img.youtube.com/vi/nnjSgp0-z-Q/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "ejK-F8_NxYc",
+    "title": "Ishq Sufiyana (Male)",
+    "artist": "Kamal Khan",
+    "movie": "",
+    "duration": "5:26",
+    "thumbnail": "https://img.youtube.com/vi/ejK-F8_NxYc/mqdefault.jpg",
+    "mood": "Sufi & Devotional"
+  },
+  {
+    "id": "_927Er2ZQMI",
+    "title": "Tu Hi Mera",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "4:33",
+    "thumbnail": "https://img.youtube.com/vi/_927Er2ZQMI/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "-3vUz7QPljM",
+    "title": "DARKHAAST",
+    "artist": "Mithoon",
+    "movie": "",
+    "duration": "6:15",
+    "thumbnail": "https://img.youtube.com/vi/-3vUz7QPljM/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  },
+  {
+    "id": "VzXPGIFDde8",
+    "title": "Tera Deedar Hua",
+    "artist": "Pritam",
+    "movie": "",
+    "duration": "5:48",
+    "thumbnail": "https://img.youtube.com/vi/VzXPGIFDde8/mqdefault.jpg",
+    "mood": "Romantic Soundscapes"
+  }
+]
