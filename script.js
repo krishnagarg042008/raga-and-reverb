@@ -227,6 +227,7 @@
       ytPlayer = new YT.Player('ytPlayer', {
         height: '200',
         width: '200',
+        host: 'https://www.youtube-nocookie.com',
         videoId: state.tracks[0] ? state.tracks[0].id : '',
         playerVars: {
           autoplay: 0,
@@ -234,6 +235,10 @@
           disablekb: 1,
           fs: 0,
           rel: 0,
+          iv_load_policy: 3,
+          modestbranding: 1,
+          playsinline: 1,
+          enablejsapi: 1,
           origin: window.location.origin
         },
         events: {
@@ -466,7 +471,30 @@
       if (state.ytPlayerReady && ytPlayer && ytPlayer.getCurrentTime) {
         state.currentTime = ytPlayer.getCurrentTime() || 0;
         state.duration = ytPlayer.getDuration() || 240;
-        updateProgressUI(state.currentTime, state.duration);
+
+        // Smart Pre-roll Ad Detection & Fast-Forward
+        const curTrack = state.tracks[state.currentIndex];
+        const expectedDuration = curTrack ? parseDuration(curTrack.duration) : 240;
+        const isAd = (state.duration < 45 && expectedDuration > 90);
+
+        if (isAd) {
+          if (el.visualizerStatus) el.visualizerStatus.textContent = 'SIGNAL: AD BYPASS // FAST FORWARD';
+          if (ytPlayer.setPlaybackRate) {
+            ytPlayer.setPlaybackRate(2.0); // Speed through ad at 2x rate
+          }
+          if (state.currentTime < state.duration - 0.5 && ytPlayer.seekTo) {
+            ytPlayer.seekTo(state.duration, true);
+          }
+        } else {
+          // Real song is playing
+          if (ytPlayer.getPlaybackRate && ytPlayer.getPlaybackRate() !== 1.0 && ytPlayer.setPlaybackRate) {
+            ytPlayer.setPlaybackRate(1.0);
+          }
+          if (el.visualizerStatus && state.isPlaying) {
+            el.visualizerStatus.textContent = 'SIGNAL: ON AIR';
+          }
+          updateProgressUI(state.currentTime, state.duration);
+        }
         
         // Update buffered progress if available
         if (ytPlayer.getVideoLoadedFraction && el.playerBufferProgress) {
